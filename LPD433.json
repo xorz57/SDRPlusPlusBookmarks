@@ -1,0 +1,349 @@
+{
+    "bookmarks": {
+        "LPD 01": {
+            "bandwidth": 12500.0,
+            "frequency": 433050000.0,
+            "mode": 0
+        },
+        "LPD 02": {
+            "bandwidth": 12500.0,
+            "frequency": 433062500.0,
+            "mode": 0
+        },
+        "LPD 03": {
+            "bandwidth": 12500.0,
+            "frequency": 433075000.0,
+            "mode": 0
+        },
+        "LPD 04": {
+            "bandwidth": 12500.0,
+            "frequency": 433087500.0,
+            "mode": 0
+        },
+        "LPD 05": {
+            "bandwidth": 12500.0,
+            "frequency": 433100000.0,
+            "mode": 0
+        },
+        "LPD 06": {
+            "bandwidth": 12500.0,
+            "frequency": 433112500.0,
+            "mode": 0
+        },
+        "LPD 07": {
+            "bandwidth": 12500.0,
+            "frequency": 433125000.0,
+            "mode": 0
+        },
+        "LPD 08": {
+            "bandwidth": 12500.0,
+            "frequency": 433137500.0,
+            "mode": 0
+        },
+        "LPD 09": {
+            "bandwidth": 12500.0,
+            "frequency": 433150000.0,
+            "mode": 0
+        },
+        "LPD 10": {
+            "bandwidth": 12500.0,
+            "frequency": 433162500.0,
+            "mode": 0
+        },
+        "LPD 11": {
+            "bandwidth": 12500.0,
+            "frequency": 433175000.0,
+            "mode": 0
+        },
+        "LPD 12": {
+            "bandwidth": 12500.0,
+            "frequency": 433187500.0,
+            "mode": 0
+        },
+        "LPD 13": {
+            "bandwidth": 12500.0,
+            "frequency": 433200000.0,
+            "mode": 0
+        },
+        "LPD 14": {
+            "bandwidth": 12500.0,
+            "frequency": 433212500.0,
+            "mode": 0
+        },
+        "LPD 15": {
+            "bandwidth": 12500.0,
+            "frequency": 433225000.0,
+            "mode": 0
+        },
+        "LPD 16": {
+            "bandwidth": 12500.0,
+            "frequency": 433237500.0,
+            "mode": 0
+        },
+        "LPD 17": {
+            "bandwidth": 12500.0,
+            "frequency": 433250000.0,
+            "mode": 0
+        },
+        "LPD 18": {
+            "bandwidth": 12500.0,
+            "frequency": 433262500.0,
+            "mode": 0
+        },
+        "LPD 19": {
+            "bandwidth": 12500.0,
+            "frequency": 433275000.0,
+            "mode": 0
+        },
+        "LPD 20": {
+            "bandwidth": 12500.0,
+            "frequency": 433287500.0,
+            "mode": 0
+        },
+        "LPD 21": {
+            "bandwidth": 12500.0,
+            "frequency": 433300000.0,
+            "mode": 0
+        },
+        "LPD 22": {
+            "bandwidth": 12500.0,
+            "frequency": 433312500.0,
+            "mode": 0
+        },
+        "LPD 23": {
+            "bandwidth": 12500.0,
+            "frequency": 433325000.0,
+            "mode": 0
+        },
+        "LPD 24": {
+            "bandwidth": 12500.0,
+            "frequency": 433337500.0,
+            "mode": 0
+        },
+        "LPD 25": {
+            "bandwidth": 12500.0,
+            "frequency": 433350000.0,
+            "mode": 0
+        },
+        "LPD 26": {
+            "bandwidth": 12500.0,
+            "frequency": 433362500.0,
+            "mode": 0
+        },
+        "LPD 27": {
+            "bandwidth": 12500.0,
+            "frequency": 433375000.0,
+            "mode": 0
+        },
+        "LPD 28": {
+            "bandwidth": 12500.0,
+            "frequency": 433387500.0,
+            "mode": 0
+        },
+        "LPD 29": {
+            "bandwidth": 12500.0,
+            "frequency": 433400000.0,
+            "mode": 0
+        },
+        "LPD 30": {
+            "bandwidth": 12500.0,
+            "frequency": 433412500.0,
+            "mode": 0
+        },
+        "LPD 31": {
+            "bandwidth": 12500.0,
+            "frequency": 433425000.0,
+            "mode": 0
+        },
+        "LPD 32": {
+            "bandwidth": 12500.0,
+            "frequency": 433437500.0,
+            "mode": 0
+        },
+        "LPD 33": {
+            "bandwidth": 12500.0,
+            "frequency": 433450000.0,
+            "mode": 0
+        },
+        "LPD 34": {
+            "bandwidth": 12500.0,
+            "frequency": 433462500.0,
+            "mode": 0
+        },
+        "LPD 35": {
+            "bandwidth": 12500.0,
+            "frequency": 433475000.0,
+            "mode": 0
+        },
+        "LPD 36": {
+            "bandwidth": 12500.0,
+            "frequency": 433487500.0,
+            "mode": 0
+        },
+        "LPD 37": {
+            "bandwidth": 12500.0,
+            "frequency": 433500000.0,
+            "mode": 0
+        },
+        "LPD 38": {
+            "bandwidth": 12500.0,
+            "frequency": 433512500.0,
+            "mode": 0
+        },
+        "LPD 39": {
+            "bandwidth": 12500.0,
+            "frequency": 433525000.0,
+            "mode": 0
+        },
+        "LPD 40": {
+            "bandwidth": 12500.0,
+            "frequency": 433537500.0,
+            "mode": 0
+        },
+        "LPD 41": {
+            "bandwidth": 12500.0,
+            "frequency": 433550000.0,
+            "mode": 0
+        },
+        "LPD 42": {
+            "bandwidth": 12500.0,
+            "frequency": 433562500.0,
+            "mode": 0
+        },
+        "LPD 43": {
+            "bandwidth": 12500.0,
+            "frequency": 433575000.0,
+            "mode": 0
+        },
+        "LPD 44": {
+            "bandwidth": 12500.0,
+            "frequency": 433587500.0,
+            "mode": 0
+        },
+        "LPD 45": {
+            "bandwidth": 12500.0,
+            "frequency": 433600000.0,
+            "mode": 0
+        },
+        "LPD 46": {
+            "bandwidth": 12500.0,
+            "frequency": 433612500.0,
+            "mode": 0
+        },
+        "LPD 47": {
+            "bandwidth": 12500.0,
+            "frequency": 433625000.0,
+            "mode": 0
+        },
+        "LPD 48": {
+            "bandwidth": 12500.0,
+            "frequency": 433637500.0,
+            "mode": 0
+        },
+        "LPD 49": {
+            "bandwidth": 12500.0,
+            "frequency": 433650000.0,
+            "mode": 0
+        },
+        "LPD 50": {
+            "bandwidth": 12500.0,
+            "frequency": 433662500.0,
+            "mode": 0
+        },
+        "LPD 51": {
+            "bandwidth": 12500.0,
+            "frequency": 433675000.0,
+            "mode": 0
+        },
+        "LPD 52": {
+            "bandwidth": 12500.0,
+            "frequency": 433687500.0,
+            "mode": 0
+        },
+        "LPD 53": {
+            "bandwidth": 12500.0,
+            "frequency": 433700000.0,
+            "mode": 0
+        },
+        "LPD 54": {
+            "bandwidth": 12500.0,
+            "frequency": 433712500.0,
+            "mode": 0
+        },
+        "LPD 55": {
+            "bandwidth": 12500.0,
+            "frequency": 433725000.0,
+            "mode": 0
+        },
+        "LPD 56": {
+            "bandwidth": 12500.0,
+            "frequency": 433737500.0,
+            "mode": 0
+        },
+        "LPD 57": {
+            "bandwidth": 12500.0,
+            "frequency": 433750000.0,
+            "mode": 0
+        },
+        "LPD 58": {
+            "bandwidth": 12500.0,
+            "frequency": 433762500.0,
+            "mode": 0
+        },
+        "LPD 59": {
+            "bandwidth": 12500.0,
+            "frequency": 433775000.0,
+            "mode": 0
+        },
+        "LPD 60": {
+            "bandwidth": 12500.0,
+            "frequency": 433787500.0,
+            "mode": 0
+        },
+        "LPD 61": {
+            "bandwidth": 12500.0,
+            "frequency": 433800000.0,
+            "mode": 0
+        },
+        "LPD 62": {
+            "bandwidth": 12500.0,
+            "frequency": 433812500.0,
+            "mode": 0
+        },
+        "LPD 63": {
+            "bandwidth": 12500.0,
+            "frequency": 433825000.0,
+            "mode": 0
+        },
+        "LPD 64": {
+            "bandwidth": 12500.0,
+            "frequency": 433837500.0,
+            "mode": 0
+        },
+        "LPD 65": {
+            "bandwidth": 12500.0,
+            "frequency": 433850000.0,
+            "mode": 0
+        },
+        "LPD 66": {
+            "bandwidth": 12500.0,
+            "frequency": 433862500.0,
+            "mode": 0
+        },
+        "LPD 67": {
+            "bandwidth": 12500.0,
+            "frequency": 433875000.0,
+            "mode": 0
+        },
+        "LPD 68": {
+            "bandwidth": 12500.0,
+            "frequency": 433887500.0,
+            "mode": 0
+        },
+        "LPD 69": {
+            "bandwidth": 12500.0,
+            "frequency": 433900000.0,
+            "mode": 0
+        }
+    }
+}
